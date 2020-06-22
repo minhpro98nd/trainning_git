@@ -1,32 +1,32 @@
-Chia s? cho m?i ngu?i 1 s? khÛa h?c h?u Ìch
-1. L?p trÏnh Java trong 4 tu?n
-2. L?p trÏnh C co b?n d?n n‚ng cao full A-Z
-3. L?p trÏnh C++ full A-Z
-4. L?p trÏnh Javascript chuyÍn s‚u
-5. L?p trÏnh React Native full a-z
+Chia s? cho m?i ngu?i 1 s? kh√≥a h?c h?u √≠ch
+1. L?p tr√¨nh Java trong 4 tu?n123123
+2. L?p tr√¨nh C co b?n d?n n√¢ng cao full A-Z
+3. L?p tr√¨nh C++ full A-Z
+4. L?p tr√¨nh Javascript chuy√™n s√¢u
+5. L?p tr√¨nh React Native full a-z
 6. Unity 3D full A-Z
 7. Zalo - Youtube - Facebook Marketing
-8. L?p trÏnh Kotlin to‡n t?p
-9. KhÛa h?c AngularJS d?nh cao
-10. Python d?nh cao v‡ chuyÍn nghi?p
-11. L?p trÏnh C# co b?n
-12. L?p trÏnh C# n‚ng cao
-13. 1 s? khÛa h?c c?a TS.L  TH?M DUONG 
+8. L?p tr√¨nh Kotlin to√†n t?p
+9. Kh√≥a h?c AngularJS d?nh cao
+10. Python d?nh cao v√† chuy√™n nghi?p
+11. L?p tr√¨nh C# co b?n
+12. L?p tr√¨nh C# n√¢ng cao
+13. 1 s? kh√≥a h?c c?a TS.L√ä TH?M DUONG 
 14. IELTS + TOEIC
-15. L?p trÏnh Android t? co b?n d?n n‚ng cao
-16. L?p trÏnh IOS t? co b?n d?n n‚ng cao
-17. L?p trÏnh Android chuyÍn s‚u v‡ ki?m ti?n t? APP
-18. L?p trÏnh PHP t? co b?n d?n chuyÍn s‚u 
-19. KhÛa h?c v? Laravel-PHP-Framework
-20. L?p trÏnh web chuyÍn nghi?p v?i PHP
+15. L?p tr√¨nh Android t? co b?n d?n n√¢ng cao
+16. L?p tr√¨nh IOS t? co b?n d?n n√¢ng cao
+17. L?p tr√¨nh Android chuy√™n s√¢u v√† ki?m ti?n t? APP
+18. L?p tr√¨nh PHP t? co b?n d?n chuy√™n s√¢u 
+19. Kh√≥a h?c v? Laravel-PHP-Framework
+20. L?p tr√¨nh web chuy√™n nghi?p v?i PHP
 21. HTML5
-22. WordPress chuyÍn nghi?p
-23. L?p trÏnh website trong 6 tu?n
-24. L?p trÏnh Backend v?i PHP-MySQL v‡ Jquery
-25. H?c l?p trÏnh PHP MySql Back-end theo mÙ hÏnh MVC
+22. WordPress chuy√™n nghi?p
+23. L?p tr√¨nh website trong 6 tu?n
+24. L?p tr√¨nh Backend v?i PHP-MySQL v√† Jquery
+25. H?c l?p tr√¨nh PHP MySql Back-end theo m√¥ h√¨nh MVC
 26. Robotics
-27. Thi?t k? giao di?n web v?i HTML v‡ CSS
-28. X‚y d?ng trang web c?a riÍng b?n v?i HTML CSS Javascript
+27. Thi?t k? giao di?n web v?i HTML v√† CSS
+28. X√¢y d?ng trang web c?a ri√™ng b?n v?i HTML CSS Javascript
 Li.nk t?i:
 1, http://bit.ly/2IhPeEA
 2, http://bit.ly/2GxduRq
@@ -56,4 +56,4 @@ Li.nk t?i:
 26. http://bit.ly/2GxfsRO
 27. http://bit.ly/2Gu1lwM
 28. http://bit.ly/2KlByWR
-–
+√ê
